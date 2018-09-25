@@ -1,0 +1,7 @@
+Means it will include the header file before compiling the code. " include" gives command to include something.
+"stdio" stands for "standard input output".
+As it is a header file so .h extension is there. 
+It contains some standard functions related to input and output such as "printf", "scanf" etc.
+eg: #include<stdio.h>
+    #include<stdlib.h>
+    #include<conio.h>
